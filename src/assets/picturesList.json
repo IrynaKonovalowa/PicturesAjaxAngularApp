@@ -1,0 +1,61 @@
+{
+  "pictureList": [
+    {
+      "file": "../assets/1.webp",
+      "name": "Enfant geopolitique observant la naissance de l'homme nouveau",
+      "year": 1943,
+      "height": 44.5,
+      "width": 52,
+      "museum": "Dali Musée, Florida"      
+    },
+    {
+      "file": "../assets/2.webp",
+      "name": "La Tentation de Saint Antonie",
+      "year": 1946,
+      "height": 89.5,
+      "width": 119.5,
+      "museum": "Musée royaux des beaux-arts de Belgique"     
+    },
+    {
+      "file": "../assets/3.webp",
+      "name": "Les Cygnes refletant les elephants",
+      "year": 1937,
+      "height": 61,
+      "width": 77,
+      "museum": "Collection privée"     
+    },
+    {
+      "file": "../assets/4.webp",
+      "name": "l'araignée du soir promet l'espoir",
+      "year": 1940,
+      "height": 40.5,
+      "width": 50.8,
+      "museum":  "Dali Musée, Florida"     
+    },
+    {
+      "file": "../assets/5.webp",
+      "name": "Le Sommei",
+      "year": 1937,
+      "height": 51,
+      "width": 78,
+      "museum": "Collection privée"     
+    },
+    {
+      "file": "../assets/6.webp",
+      "name": "La persistance de la Mémoire",
+      "year": 1931,
+      "height": 24,
+      "width": 33,
+      "museum": "Museum of Modern Art, New York"     
+    },
+    {
+      "file": "../assets/7.webp",
+      "name": "Vivre encore la vie",
+      "year": 1956,
+      "height": 125,
+      "width": 160,
+      "museum": "Dali Musée, Florida"     
+    }
+  ]
+}
+   

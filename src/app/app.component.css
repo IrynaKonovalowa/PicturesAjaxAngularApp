@@ -1,0 +1,59 @@
+@font-face
+        {
+            font-family: IndieFlower-Regular;
+            src:url(../assets/IndieFlower-Regular.ttf);
+        } 
+button{
+width: 160px;
+height: 160px;
+margin: 20px;
+border: 5px solid  darkcyan;
+border-radius: 10px;
+padding: 0px;
+}
+img{
+width: 100%;
+height: 100%;
+border: 1px solid transparent;
+border-radius: 6px; 
+}
+h1{
+    color: darkcyan;
+    font-family: IndieFlower-Regular;
+    margin-left: 400px;
+    font-weight: bold;
+}
+.imgDiv{
+background-color: rgb(137, 52, 114);
+padding-left: 30px;
+}
+.imgDivBig{
+width: 360px;
+height: 360px;
+float: left;
+margin: 110px 10px 10px 500px ;
+}
+.name{
+    font-family: IndieFlower-Regular;;
+    color: rgb(137, 52, 114);
+    font-weight: bold;
+    font-size: 28px;
+    margin-bottom: 40px;
+}
+span{
+    font-weight: bold;
+    color:darkcyan;
+}
+.divWrapper{    
+    background-image: url(../assets/Salvador.jpg);
+    background-repeat: no-repeat;    
+    height: 100%;
+    width: 100%;  
+}
+
+.divWrapperItem{
+    margin-top: 140px;
+    width: 460px;
+    display: inline-block;
+    height: 460px;
+}

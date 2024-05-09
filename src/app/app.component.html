@@ -1,0 +1,33 @@
+<h1>Chefs-d'œuvre de Salvador Dalí</h1>    
+    <div [ngClass] = "{imgDiv:true}">
+      <button (click)="Info(0)"><img src="../assets/1.webp"></button>
+      <button (click)="Info(1)"><img src="../assets/2.webp"></button>
+      <button (click)="Info(2)"><img src="../assets/3.webp"></button>
+      <button (click)="Info(3)"><img src="../assets/4.webp"></button>
+      <button (click)="Info(4)"><img src="../assets/5.webp"></button>
+      <button (click)="Info(5)"><img src="../assets/6.webp"></button>
+      <button (click)="Info(6)"><img src="../assets/7.webp"></button>
+    </div>
+    <div [ngClass] = "{divWrapper:true}">
+    <div [ngClass] = "{imgDivBig:true}">
+    <img src="{{file}}" alt="Peinture">
+    </div>
+    <div  [ngClass] = "{divWrapperItem:true}">
+    <div [ngClass] = "{name:true}">
+    {{name}}
+    </div>
+    <div>
+    <span>Annee: </span>
+    {{year}}
+    </div>    
+    <div>
+    <span>Dimensions: </span>
+    {{height}} x {{width}}   
+    </div>
+    <div>
+    <span>Localisation: </span>
+    {{museum}}
+    </div>
+    </div>
+    </div>
+    
